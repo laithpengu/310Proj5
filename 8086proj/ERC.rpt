@@ -1,0 +1,125 @@
+ERC report (4/12/2022 1:30:47 PM, Encoding UTF8)
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 87.63 mm): Symbol U1 [8086_Min_Mode] Pin 10 [AD6, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 85.09 mm): Symbol U1 [8086_Min_Mode] Pin 11 [AD5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 64.77 mm): Symbol U1 [8086_Min_Mode] Pin 25 [ALE, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 62.23 mm): Symbol U1 [8086_Min_Mode] Pin 26 [~{DEN}, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 67.31 mm): Symbol U1 [8086_Min_Mode] Pin 34 [~{BHE}/S7, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 82.55 mm): Symbol U1 [8086_Min_Mode] Pin 12 [AD4, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 80.01 mm): Symbol U1 [8086_Min_Mode] Pin 13 [AD3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 77.47 mm): Symbol U1 [8086_Min_Mode] Pin 14 [AD2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 74.93 mm): Symbol U1 [8086_Min_Mode] Pin 15 [AD1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 72.39 mm): Symbol U1 [8086_Min_Mode] Pin 16 [AD0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(110.49 mm, 143.51 mm): Symbol U1 [8086_Min_Mode] Pin 1 [GND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(115.57 mm, 143.51 mm): Symbol U1 [8086_Min_Mode] Pin 20 [GND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 135.89 mm): Symbol U1 [8086_Min_Mode] Pin 24 [~{INTA}, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 128.27 mm): Symbol U1 [8086_Min_Mode] Pin 28 [M/~{IO}, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 130.81 mm): Symbol U1 [8086_Min_Mode] Pin 29 [~{WR}, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 133.35 mm): Symbol U1 [8086_Min_Mode] Pin 32 [~{RD}, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(95.25 mm, 77.47 mm): Symbol U1 [8086_Min_Mode] Pin 17 [NMI, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(95.25 mm, 82.55 mm): Symbol U1 [8086_Min_Mode] Pin 18 [INTR, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(95.25 mm, 59.69 mm): Symbol U1 [8086_Min_Mode] Pin 19 [CLK, Input, Clock]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(95.25 mm, 69.85 mm): Symbol U1 [8086_Min_Mode] Pin 21 [RESET, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(95.25 mm, 64.77 mm): Symbol U1 [8086_Min_Mode] Pin 22 [READY, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 107.95 mm): Symbol U1 [8086_Min_Mode] Pin 2 [AD14, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 105.41 mm): Symbol U1 [8086_Min_Mode] Pin 3 [AD13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 102.87 mm): Symbol U1 [8086_Min_Mode] Pin 4 [AD12, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 100.33 mm): Symbol U1 [8086_Min_Mode] Pin 5 [AD11, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 97.79 mm): Symbol U1 [8086_Min_Mode] Pin 6 [AD10, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(95.25 mm, 102.87 mm): Symbol U1 [8086_Min_Mode] Pin 30 [HLDA, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(95.25 mm, 107.95 mm): Symbol U1 [8086_Min_Mode] Pin 31 [HOLD, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(95.25 mm, 135.89 mm): Symbol U1 [8086_Min_Mode] Pin 33 [MN/~{MX}, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(113.03 mm, 52.07 mm): Symbol U1 [8086_Min_Mode] Pin 40 [VCC, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 123.19 mm): Symbol U1 [8086_Min_Mode] Pin 35 [A19/S6, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 120.65 mm): Symbol U1 [8086_Min_Mode] Pin 36 [A18/S5, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 118.11 mm): Symbol U1 [8086_Min_Mode] Pin 37 [A17/S4, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 115.57 mm): Symbol U1 [8086_Min_Mode] Pin 38 [A16/S3, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 110.49 mm): Symbol U1 [8086_Min_Mode] Pin 39 [AD15, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(95.25 mm, 90.17 mm): Symbol U1 [8086_Min_Mode] Pin 23 [~{TEST}, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 59.69 mm): Symbol U1 [8086_Min_Mode] Pin 27 [DT/~{R}, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 95.25 mm): Symbol U1 [8086_Min_Mode] Pin 7 [AD9, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 92.71 mm): Symbol U1 [8086_Min_Mode] Pin 8 [AD8, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(130.81 mm, 90.17 mm): Symbol U1 [8086_Min_Mode] Pin 9 [AD7, Bidirectional, Line]
+
+ ** ERC messages: 40  Errors 40  Warnings 0
