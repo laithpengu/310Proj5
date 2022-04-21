@@ -2,7 +2,7 @@
 
   (uuid 72dab316-6fa2-4a22-a03f-e7187e43afa9)
 
-  (paper "A4")
+  (paper "A2")
 
   (lib_symbols
     (symbol "MCU_Intel:8086_Min_Mode" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
@@ -199,19 +199,43 @@
   )
 
 
-  (symbol (lib_id "MCU_Intel:8086_Min_Mode") (at 113.03 97.79 0) (unit 1)
+  (wire (pts (xy 153.67 180.34) (xy 156.21 180.34))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 0db60c37-38a8-4312-a4fb-cbca16414f4f)
+  )
+  (wire (pts (xy 153.67 170.18) (xy 156.21 170.18))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 4439d9ae-ad3b-4cb1-b346-4b037bf57d66)
+  )
+
+  (global_label "CLK" (shape output) (at 153.67 170.18 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 02ca0df4-9fe0-4c99-a177-15d73d430539)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 147.6888 170.2594 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "RESET" (shape output) (at 153.67 180.34 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 09c5a5a5-f151-49f0-8a79-c888696c14d0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 145.5117 180.2606 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+
+  (symbol (lib_id "MCU_Intel:8086_Min_Mode") (at 173.99 208.28 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 174f9a27-35f7-4dde-a329-3ab5c39f6afc)
-    (property "Reference" "U1" (id 0) (at 115.0494 50.8 0)
+    (property "Reference" "U1" (id 0) (at 176.0094 161.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "8086_Min_Mode" (id 1) (at 115.0494 53.34 0)
+    (property "Value" "8086_Min_Mode" (id 1) (at 176.0094 163.83 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DIP:DIP-40_W15.24mm" (id 2) (at 114.3 95.25 0)
+    (property "Footprint" "Package_DIP:DIP-40_W15.24mm" (id 2) (at 175.26 205.74 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (property "Datasheet" "http://datasheets.chipdb.org/Intel/x86/808x/datashts/8086/231455-006.pdf" (id 3) (at 113.03 96.52 0)
+    (property "Datasheet" "http://datasheets.chipdb.org/Intel/x86/808x/datashts/8086/231455-006.pdf" (id 3) (at 173.99 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid cd681958-5f5e-410b-bfed-7d019767e559))
@@ -256,13 +280,50 @@
     (pin "9" (uuid 754580a5-176a-402b-8b4a-ed80f2574755))
   )
 
+  (sheet (at 154.94 119.38) (size 16.51 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4fad3d9c-9ad7-4272-a965-ec06eb9cc530)
+    (property "Sheet name" "Clock Sheet" (id 0) (at 154.94 118.6684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "clock.kicad_sch" (id 1) (at 154.94 140.2846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/4fad3d9c-9ad7-4272-a965-ec06eb9cc530" (page "2"))
   )
 
   (symbol_instances
+    (path "/4fad3d9c-9ad7-4272-a965-ec06eb9cc530/716f2b1a-b893-4511-a3ae-232edefae399"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/4fad3d9c-9ad7-4272-a965-ec06eb9cc530/a658c771-b492-44ef-a949-143f5d3b159d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/4fad3d9c-9ad7-4272-a965-ec06eb9cc530/c8dbae02-c6f8-4e68-b358-3a6c501e083a"
+      (reference "C?") (unit 1) (value "10uF") (footprint "")
+    )
+    (path "/4fad3d9c-9ad7-4272-a965-ec06eb9cc530/8f81149b-faae-4b3c-970a-6a2ac15a1b0c"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/4fad3d9c-9ad7-4272-a965-ec06eb9cc530/440913ab-5556-4090-a89c-cd1fd9afe3ea"
+      (reference "R?") (unit 1) (value "10k") (footprint "")
+    )
+    (path "/4fad3d9c-9ad7-4272-a965-ec06eb9cc530/38675050-53ea-4ee8-8cd2-47093a802c56"
+      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    )
     (path "/174f9a27-35f7-4dde-a329-3ab5c39f6afc"
       (reference "U1") (unit 1) (value "8086_Min_Mode") (footprint "Package_DIP:DIP-40_W15.24mm")
+    )
+    (path "/4fad3d9c-9ad7-4272-a965-ec06eb9cc530/55000a4c-19c7-458e-9166-3e8b2c45b34c"
+      (reference "U?") (unit 1) (value "8284") (footprint "Package_DIP:DIP-18_W7.62mm")
+    )
+    (path "/4fad3d9c-9ad7-4272-a965-ec06eb9cc530/6331dce3-1309-41e4-aca9-ad8e62dc2f98"
+      (reference "Y?") (unit 1) (value "Crystal") (footprint "")
     )
   )
 )
