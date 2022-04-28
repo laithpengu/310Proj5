@@ -371,6 +371,9 @@
     (path "/13edf85d-e5b3-408c-9ca0-37b4fd7394a6/d123df79-7289-4378-8342-73801d550a71"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/ca0389f4-f711-40c0-919a-1246dc815a6c/ea332be6-8c61-4270-a7c1-7123e909e17e"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/b90997e2-4c7f-4479-862f-ab35dfea4f77/c8dbae02-c6f8-4e68-b358-3a6c501e083a"
       (reference "C1") (unit 1) (value "10uF") (footprint "")
     )
