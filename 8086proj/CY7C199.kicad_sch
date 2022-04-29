@@ -1534,7 +1534,7 @@
     (property "Reference" "#PWR?" (id 0) (at 52.07 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "" (id 1) (at 52.07 39.37 0))
+    (property "Value" "GND" (id 1) (at 52.07 39.37 0))
     (property "Footprint" "" (id 2) (at 52.07 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
