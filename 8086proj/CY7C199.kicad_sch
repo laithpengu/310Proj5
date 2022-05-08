@@ -393,7 +393,6 @@
   (no_connect (at 33.02 52.07) (uuid d5f990d9-b1c6-4e01-9319-a1797996d16c))
   (no_connect (at 33.02 49.53) (uuid d5f990d9-b1c6-4e01-9319-a1797996d16d))
   (no_connect (at 33.02 46.99) (uuid d5f990d9-b1c6-4e01-9319-a1797996d16e))
-  (no_connect (at 33.02 41.91) (uuid d5f990d9-b1c6-4e01-9319-a1797996d16f))
   (no_connect (at 33.02 44.45) (uuid d5f990d9-b1c6-4e01-9319-a1797996d170))
   (no_connect (at 58.42 44.45) (uuid d5f990d9-b1c6-4e01-9319-a1797996d171))
 
@@ -1352,6 +1351,10 @@
   (hierarchical_label "AIN" (shape bidirectional) (at 34.29 17.78 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 2bd83c87-584f-49b3-bb65-4aef34eddd11)
+  )
+  (hierarchical_label "M{slash}_IO" (shape output) (at 33.02 41.91 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 2cd7659b-374f-4a8c-bf5a-85342d4fce99)
   )
   (hierarchical_label "OE" (shape output) (at 140.97 144.78 180)
     (effects (font (size 1.27 1.27)) (justify right))
