@@ -2606,7 +2606,7 @@
     (uuid 37800cb7-da2f-4678-a6dc-ae9c039f3136)
     (property "Reference" "C201" (id 0) (at 99.06 24.13 90))
     (property "Value" ".1uF" (id 1) (at 99.06 26.67 90))
-    (property "Footprint" "" (id 2) (at 95.25 32.7152 0)
+    (property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3" (id 2) (at 95.25 32.7152 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 99.06 31.75 0)
