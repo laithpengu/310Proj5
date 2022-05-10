@@ -2004,7 +2004,7 @@
       (reference "D1308") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric")
     )
     (path "/f1af136d-fc23-40d6-9ece-115c567a709f/ee3d621e-237d-4382-b7e3-a9fcf17e4bec"
-      (reference "DS1201") (unit 1) (value "LCD4x20") (footprint "LCD4x20")
+      (reference "DS1201") (unit 1) (value "LCD4x20") (footprint "Display:LCD-016N002L")
     )
     (path "/33150f27-98b3-4b2a-92cc-16b50b335e66/99a67857-71fb-475a-99f7-55214f020082"
       (reference "J201") (unit 1) (value "Conn_01x15_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x15_P1.00mm_Vertical")
@@ -2049,7 +2049,7 @@
       (reference "J801") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical")
     )
     (path "/be3f0182-1888-4a47-ad24-125d3a138d53/696dae42-1a57-49e6-8395-839b1e627ef6"
-      (reference "J901") (unit 1) (value "DSUB-9") (footprint "DSUB-9")
+      (reference "J901") (unit 1) (value "DSUB-9") (footprint "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
     (path "/3642e83f-75ee-4359-9afe-1e839362101a/4e17472c-f2b9-43c0-9631-06ca6025eeb6"
       (reference "J1001") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical")
@@ -2187,10 +2187,10 @@
       (reference "U401") (unit 1) (value "PAL16L8") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/13edf85d-e5b3-408c-9ca0-37b4fd7394a6/e32dd766-da62-4e39-882f-9268368b2963"
-      (reference "U402") (unit 1) (value "28F010") (footprint "28F010")
+      (reference "U402") (unit 1) (value "28F010") (footprint "Package_DIP:DIP-32_W15.24mm")
     )
     (path "/13edf85d-e5b3-408c-9ca0-37b4fd7394a6/6dbace3f-28b8-4ae9-8187-dec0952be8e4"
-      (reference "U403") (unit 1) (value "28F010") (footprint "28F010")
+      (reference "U403") (unit 1) (value "28F010") (footprint "Package_DIP:DIP-32_W15.24mm")
     )
     (path "/ca0389f4-f711-40c0-919a-1246dc815a6c/88749625-436e-4aec-a413-82ee13118e44"
       (reference "U501") (unit 1) (value "PAL16L8") (footprint "Package_DIP:DIP-20_W7.62mm")
@@ -2214,28 +2214,28 @@
       (reference "U602") (unit 1) (value "8255") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
     (path "/db110dd7-866f-4182-8c0a-892c963cb565/79a99526-da32-4c8f-8cda-1db7e38c6e8d"
-      (reference "U603") (unit 1) (value "74AUC2G32") (footprint "")
+      (reference "U603") (unit 1) (value "74AUC2G32") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/db110dd7-866f-4182-8c0a-892c963cb565/2e4e3494-5151-4cd5-b479-ce36e9747643"
-      (reference "U603") (unit 2) (value "74AUC2G32") (footprint "")
+      (reference "U603") (unit 2) (value "74AUC2G32") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/db110dd7-866f-4182-8c0a-892c963cb565/c6ed3ed7-6647-437a-a7b6-6172f7793d84"
-      (reference "U604") (unit 1) (value "4011") (footprint "")
+      (reference "U604") (unit 1) (value "4011") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/db110dd7-866f-4182-8c0a-892c963cb565/1620173b-3968-4b17-b20e-a1159da9543a"
       (reference "U605") (unit 1) (value "8255") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
     (path "/db110dd7-866f-4182-8c0a-892c963cb565/a83a8be9-be31-45aa-9824-294382c6de56"
-      (reference "U606") (unit 1) (value "74AHCT04") (footprint "")
+      (reference "U606") (unit 1) (value "74AHCT04") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/db110dd7-866f-4182-8c0a-892c963cb565/dbcbe67d-354a-472f-a7be-296f387299e2"
-      (reference "U607") (unit 1) (value "74LVC1G332") (footprint "")
+      (reference "U607") (unit 1) (value "74LVC1G332") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/db110dd7-866f-4182-8c0a-892c963cb565/b704e957-926b-497a-b469-1f01911cc579"
       (reference "U608") (unit 1) (value "8255") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
     (path "/db110dd7-866f-4182-8c0a-892c963cb565/8bcb48db-661f-46cb-b1c0-30e57d444c26"
-      (reference "U609") (unit 2) (value "74AUC2G32") (footprint "")
+      (reference "U609") (unit 2) (value "74AUC2G32") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/c8186690-a67f-40cd-87ed-969498418dbb/1305ca48-3513-449b-8adc-2d60572617bb"
       (reference "U801") (unit 1) (value "74LS21") (footprint "Package_DIP:DIP-14_W10.16mm")
@@ -2262,13 +2262,13 @@
       (reference "U902") (unit 1) (value "16550") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
     (path "/be3f0182-1888-4a47-ad24-125d3a138d53/35a91556-6985-4d64-a353-1646c73e3354"
-      (reference "U903") (unit 1) (value "max235cpg") (footprint "max235cpg")
+      (reference "U903") (unit 1) (value "max235cpg") (footprint "Package_DIP:DIP-24_W10.16mm")
     )
     (path "/3642e83f-75ee-4359-9afe-1e839362101a/e48b57be-2004-412d-9e40-4910493cf427"
-      (reference "U1001") (unit 1) (value "74LS04") (footprint "")
+      (reference "U1001") (unit 1) (value "74LS04") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/1f3f8e32-4041-419d-bb41-807996b04290/e4542fa2-96c5-41b9-8ec0-bde6fbe2c509"
-      (reference "U1001") (unit 2) (value "74LS04") (footprint "")
+      (reference "U1001") (unit 2) (value "74LS04") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/0d6ef7ee-78e6-41c7-9ce0-eccdb060f88c/d4f822c7-c3c4-4100-9cf2-d697eccce623"
       (reference "U1002") (unit 1) (value "74LS21") (footprint "Package_DIP:DIP-14_W10.16mm")
@@ -2298,16 +2298,16 @@
       (reference "U1103") (unit 1) (value "PAL16L8") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/0d6ef7ee-78e6-41c7-9ce0-eccdb060f88c/add34c53-8568-4486-87b8-6086759ffdfc"
-      (reference "U1104") (unit 1) (value "pkd8279") (footprint "pkd8279")
+      (reference "U1104") (unit 1) (value "pkd8279") (footprint "Package_DIP:DIP-40_W25.4mm")
     )
     (path "/0d6ef7ee-78e6-41c7-9ce0-eccdb060f88c/6a3b9313-c596-4b2a-bda6-59c7b19fbfed"
-      (reference "U1105") (unit 1) (value "74LS138") (footprint "")
+      (reference "U1105") (unit 1) (value "74LS138") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/f1af136d-fc23-40d6-9ece-115c567a709f/eb9f7583-f3ab-417a-a97c-e1aa52a301c2"
       (reference "U1201") (unit 1) (value "PAL16L8") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/71987640-32bf-4a45-a8a6-0ed515955e87/fc73d436-42ff-4b3e-b86e-9010c62280f9"
-      (reference "U1301") (unit 1) (value "74AHC373") (footprint "")
+      (reference "U1301") (unit 1) (value "74AHC373") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/71987640-32bf-4a45-a8a6-0ed515955e87/0da3c600-4c32-41d0-af1d-9b325b179266"
       (reference "U1302") (unit 1) (value "PAL16L8") (footprint "Package_DIP:DIP-20_W7.62mm")
@@ -2316,16 +2316,16 @@
       (reference "U1303") (unit 1) (value "D148K") (footprint "Display_7Segment:D1X8K")
     )
     (path "/71987640-32bf-4a45-a8a6-0ed515955e87/6627011f-58b7-4713-a9c1-7d37691ef062"
-      (reference "U1304") (unit 1) (value "74AHC373") (footprint "")
+      (reference "U1304") (unit 1) (value "74AHC373") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/71987640-32bf-4a45-a8a6-0ed515955e87/5628e0b2-fc93-4c3a-a2c6-3b9e9cd9b2f4"
       (reference "U1305") (unit 1) (value "D148K") (footprint "Display_7Segment:D1X8K")
     )
     (path "/71987640-32bf-4a45-a8a6-0ed515955e87/110e88b1-1025-4cd3-b8ef-ee7533c4a30a"
-      (reference "U1306") (unit 1) (value "74AHC373") (footprint "")
+      (reference "U1306") (unit 1) (value "74AHC373") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/1f3f8e32-4041-419d-bb41-807996b04290/a673071e-1287-4805-948a-1a101bf363fe"
-      (reference "U1401") (unit 1) (value "74LS04") (footprint "")
+      (reference "U1401") (unit 1) (value "74LS04") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/1f3f8e32-4041-419d-bb41-807996b04290/fc068a3b-154f-477e-9359-17861293f812"
       (reference "U1402") (unit 2) (value "74LS21") (footprint "Package_DIP:DIP-14_W10.16mm")
@@ -2337,7 +2337,7 @@
       (reference "U1404") (unit 1) (value "PAL16L8") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/1f3f8e32-4041-419d-bb41-807996b04290/5239ab73-8b21-4657-bf15-2ed58c928b14"
-      (reference "U1405") (unit 1) (value "74LS244") (footprint "")
+      (reference "U1405") (unit 1) (value "74LS244") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/b90997e2-4c7f-4479-862f-ab35dfea4f77/6331dce3-1309-41e4-aca9-ad8e62dc2f98"
       (reference "Y301") (unit 1) (value "~") (footprint "")
