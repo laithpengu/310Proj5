@@ -2181,7 +2181,7 @@
       (reference "U204") (unit 1) (value "74AHC373") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/b90997e2-4c7f-4479-862f-ab35dfea4f77/55000a4c-19c7-458e-9166-3e8b2c45b34c"
-      (reference "U301") (unit 1) (value "~") (footprint "")
+      (reference "U301") (unit 1) (value "~") (footprint "Package_DIP:DIP-18_W7.62mm")
     )
     (path "/13edf85d-e5b3-408c-9ca0-37b4fd7394a6/09620ac8-517d-4630-a2b0-43b314d354a3"
       (reference "U401") (unit 1) (value "PAL16L8") (footprint "Package_DIP:DIP-20_W7.62mm")
@@ -2340,10 +2340,10 @@
       (reference "U1405") (unit 1) (value "74LS244") (footprint "Package_DIP:DIP-14_W10.16mm")
     )
     (path "/b90997e2-4c7f-4479-862f-ab35dfea4f77/6331dce3-1309-41e4-aca9-ad8e62dc2f98"
-      (reference "Y301") (unit 1) (value "~") (footprint "")
+      (reference "Y301") (unit 1) (value "~") (footprint "Crystal:Crystal_AT310_D3.0mm_L10.0mm_Horizontal")
     )
     (path "/be3f0182-1888-4a47-ad24-125d3a138d53/956e6850-f06f-4520-9237-8db154925afb"
-      (reference "Y901") (unit 1) (value "~") (footprint "")
+      (reference "Y901") (unit 1) (value "~") (footprint "Crystal:Crystal_AT310_D3.0mm_L10.0mm_Horizontal")
     )
   )
 )
