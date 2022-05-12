@@ -1451,7 +1451,7 @@
     (property "Value" "74LS244" (id 1) (at 163.3094 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DIP:DIP-14_W10.16mm" (id 2) (at 161.29 101.6 0)
+    (property "Footprint" "" (id 2) (at 161.29 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn74ls244.pdf" (id 3) (at 161.29 101.6 0)
