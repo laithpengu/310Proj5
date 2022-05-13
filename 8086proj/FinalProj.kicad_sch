@@ -2281,7 +2281,7 @@
       (reference "U1104") (unit 1) (value "pkd8279") (footprint "Package_DIP:DIP-40_W25.4mm")
     )
     (path "/0d6ef7ee-78e6-41c7-9ce0-eccdb060f88c/6a3b9313-c596-4b2a-bda6-59c7b19fbfed"
-      (reference "U1105") (unit 1) (value "74LS138") (footprint "Package_DIP:DIP-14_W10.16mm")
+      (reference "U1105") (unit 1) (value "74LS138") (footprint "Package_DIP:DIP-16_W7.62mm")
     )
     (path "/f1af136d-fc23-40d6-9ece-115c567a709f/eb9f7583-f3ab-417a-a97c-e1aa52a301c2"
       (reference "U1201") (unit 1) (value "PAL16L8") (footprint "Package_DIP:DIP-20_W7.62mm")

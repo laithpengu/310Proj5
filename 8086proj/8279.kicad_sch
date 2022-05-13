@@ -1961,7 +1961,7 @@
     (uuid 6a3b9313-c596-4b2a-bda6-59c7b19fbfed)
     (property "Reference" "U1105" (id 0) (at 215.9 128.4986 90))
     (property "Value" "74LS138" (id 1) (at 215.9 131.0386 90))
-    (property "Footprint" "Package_DIP:DIP-14_W10.16mm" (id 2) (at 198.12 132.08 0)
+    (property "Footprint" "" (id 2) (at 198.12 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS138" (id 3) (at 198.12 132.08 0)
