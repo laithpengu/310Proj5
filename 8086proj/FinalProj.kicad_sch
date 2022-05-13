@@ -2287,7 +2287,7 @@
       (reference "U1201") (unit 1) (value "PAL16L8") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/71987640-32bf-4a45-a8a6-0ed515955e87/fc73d436-42ff-4b3e-b86e-9010c62280f9"
-      (reference "U1301") (unit 1) (value "74AHC373") (footprint "Package_DIP:DIP-14_W10.16mm")
+      (reference "U1301") (unit 1) (value "74AHC373") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/71987640-32bf-4a45-a8a6-0ed515955e87/0da3c600-4c32-41d0-af1d-9b325b179266"
       (reference "U1302") (unit 1) (value "PAL16L8") (footprint "Package_DIP:DIP-20_W7.62mm")
@@ -2296,13 +2296,13 @@
       (reference "U1303") (unit 1) (value "D148K") (footprint "Display_7Segment:D1X8K")
     )
     (path "/71987640-32bf-4a45-a8a6-0ed515955e87/6627011f-58b7-4713-a9c1-7d37691ef062"
-      (reference "U1304") (unit 1) (value "74AHC373") (footprint "Package_DIP:DIP-14_W10.16mm")
+      (reference "U1304") (unit 1) (value "74AHC373") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/71987640-32bf-4a45-a8a6-0ed515955e87/5628e0b2-fc93-4c3a-a2c6-3b9e9cd9b2f4"
       (reference "U1305") (unit 1) (value "D148K") (footprint "Display_7Segment:D1X8K")
     )
     (path "/71987640-32bf-4a45-a8a6-0ed515955e87/110e88b1-1025-4cd3-b8ef-ee7533c4a30a"
-      (reference "U1306") (unit 1) (value "74AHC373") (footprint "Package_DIP:DIP-14_W10.16mm")
+      (reference "U1306") (unit 1) (value "74AHC373") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/1f3f8e32-4041-419d-bb41-807996b04290/a673071e-1287-4805-948a-1a101bf363fe"
       (reference "U1401") (unit 1) (value "74LS04") (footprint "Package_DIP:DIP-14_W10.16mm")

@@ -998,7 +998,6 @@
   (no_connect (at 59.69 99.06) (uuid 9ca683bf-a263-4ada-8e0e-c53d4d8c1e5e))
   (no_connect (at 59.69 101.6) (uuid 9ca683bf-a263-4ada-8e0e-c53d4d8c1e5f))
   (no_connect (at 59.69 104.14) (uuid 9ca683bf-a263-4ada-8e0e-c53d4d8c1e60))
-  (no_connect (at 129.54 120.65) (uuid d0404e6e-fadf-4e24-ace6-2688ac39aaf8))
 
   (wire (pts (xy 74.93 80.01) (xy 77.47 80.01))
     (stroke (width 0) (type default) (color 0 0 0 0))
